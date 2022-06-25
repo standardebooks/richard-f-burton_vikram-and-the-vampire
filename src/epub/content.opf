@@ -46,6 +46,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">King Vikram becomes trapped in a cycle of stories as he tries to capture a cunning vampire.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Baital Pachisi&lt;/i&gt;, also known as &lt;i&gt;Vikram-Betaal&lt;/i&gt;, is a collection of Hindu tales featuring King Vikramaditya as the hero. Eleven of these tales were adapted from Sanskrit to English by &lt;a href="https://standardebooks.org/ebooks/richard-f-burton"&gt;Richard &lt;abbr&gt;F.&lt;/abbr&gt; Burton&lt;/a&gt; as &lt;i&gt;Vikram and the Vampire&lt;/i&gt;.&lt;/p&gt;
