@@ -63,7 +63,7 @@ section[epub|type~="dedication"] p{
 }
 
 section[epub|type~="dedication"] b{
-	font-size: 1.25em;
+	font-size: larger;
 }
 
 @supports(display: flex){
