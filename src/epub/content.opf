@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/vikramvampireort00burt</dc:source>
 		<dc:source>https://archive.org/details/vikramvampireort1893burt</dc:source>
 		<meta property="se:production-notes">Scans from two editions were used to produce the book. The content is based on the original edition published in 1870. Minor issues like punctuations have been corrected using the second edition published in 1893.</meta>
-		<meta property="se:word-count">72431</meta>
+		<meta property="se:word-count">71997</meta>
 		<meta property="se:reading-ease.flesch">65.15</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Vetala_Panchavimshati</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-f-burton_vikram-and-the-vampire</meta>
