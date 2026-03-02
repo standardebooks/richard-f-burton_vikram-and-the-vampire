@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-1.xhtml">
-		<ignore>
-			<code>t-057</code>
+		<ignore code="t-057">
 			<reason>Leading interruptions are styled as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-8.xhtml">
-		<ignore>
-			<code>t-057</code>
+		<ignore code="t-057">
 			<reason>Leading interruptions are styled as-is in print.</reason>
 		</ignore>
 	</file>
 	<file path="dedication.xhtml">
-		<ignore>
-			<code>t-017</code>
+		<ignore code="t-017">
 			<reason>Bold is meant to style the entire line.</reason>
 		</ignore>
 	</file>
 	<file path="introduction.xhtml">
-		<ignore>
-			<code>s-036</code>
+		<ignore code="s-036">
 			<reason>Introduction forms the bodymatter for this work and should be annotated accordingly.</reason>
 		</ignore>
 	</file>
