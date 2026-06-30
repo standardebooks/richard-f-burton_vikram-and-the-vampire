@@ -1,0 +1,1 @@
+Scans from two editions were used to produce the book. The content is based on the original edition published in 1870. Minor issues like punctuations have been corrected using the second edition published in 1893.
