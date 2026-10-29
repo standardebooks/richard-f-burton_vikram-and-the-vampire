@@ -66,7 +66,7 @@
 		<link href="https://github.com/standardebooks/richard-f-burton_vikram-and-the-vampire" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Richard F. Burton</dc:creator>
 		<meta property="file-as" refines="#author">Burton, Richard F.</meta>
-		<meta property="schema:alternateName" refines="#author">Sir Richard Francis Burton</meta>
+		<meta property="schema:alternateName" refines="#author">Richard Francis Burton</meta>
 		<link href="https://en.wikipedia.org/wiki/Richard_Francis_Burton" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80057204.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
